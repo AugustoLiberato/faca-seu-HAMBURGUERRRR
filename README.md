@@ -1,19 +1,21 @@
-# 3_make_your_burger
+# faça seu hamburguer maravilhosoo
 
-## Project setup
+- Fiz esse projeto durante um curso de um canal do youtube, esse projeto é o resultade de acompanhar o vídeos
+
+- Feito com VUE 3
+
+## 1°  no terminal do vscode execute
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 2° executar no terminar do VSCode
+```
+npm run backend
+```
+
+### 3° Depois executer
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
